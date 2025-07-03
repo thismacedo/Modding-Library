@@ -1,0 +1,8 @@
+C:\Users\conta\Desktop\VXA-OS_2.1.7\VXA-OS\Extra\AccountEditorVxaos\bin\Release\net9.0-windows\win-x64\publish\AccountEditorVxaos.exe
+C:\Users\conta\Desktop\VXA-OS_2.1.7\VXA-OS\Extra\AccountEditorVxaos\bin\Release\net9.0-windows\win-x64\publish\AccountEditorVxaos.dll
+C:\Users\conta\Desktop\VXA-OS_2.1.7\VXA-OS\Extra\AccountEditorVxaos\bin\Release\net9.0-windows\win-x64\publish\AccountEditorVxaos.deps.json
+C:\Users\conta\Desktop\VXA-OS_2.1.7\VXA-OS\Extra\AccountEditorVxaos\bin\Release\net9.0-windows\win-x64\publish\AccountEditorVxaos.runtimeconfig.json
+C:\Users\conta\Desktop\VXA-OS_2.1.7\VXA-OS\Extra\AccountEditorVxaos\bin\Release\net9.0-windows\win-x64\publish\AccountEditorVxaos.pdb
+C:\Users\conta\Desktop\VXA-OS_2.1.7\VXA-OS\Extra\AccountEditorVxaos\bin\Release\net9.0-windows\win-x64\publish\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\conta\Desktop\VXA-OS_2.1.7\VXA-OS\Extra\AccountEditorVxaos\bin\Release\net9.0-windows\win-x64\publish\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\conta\Desktop\VXA-OS_2.1.7\VXA-OS\Extra\AccountEditorVxaos\bin\Release\net9.0-windows\win-x64\publish\Npgsql.dll
